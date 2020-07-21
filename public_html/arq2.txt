@@ -1,0 +1,19 @@
+TEMPO NO RS:
+Minima de 02C
+Maxima de 10C
+--------------------------------------------------
+TEMPO NO PR:
+Minima de 11C
+Maxima de 23C
+--------------------------------------------------
+TEMPO NO RJ:
+Minima de 16C
+Maxima de 24C
+--------------------------------------------------
+TEMPO EM SC:
+Minima de 06C
+Maxima de 17C
+--------------------------------------------------
+TEMPO EM SP:
+Minima de 20C
+Maxima de 33C
